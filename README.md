@@ -2,6 +2,8 @@
 
 DBSCAN implementation in python hosted at scikit-learn.
 
+![alt text](images/dbscan-example.png "DBSCAN Example")
+
 # Install
 
 ```bash
